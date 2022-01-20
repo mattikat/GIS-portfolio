@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[Link](https://mattikat.github.io/GIS-portfolio/Postal-area-interactive-map/Postal_areas.html)
+[Link](https://mattikat.github.io/GIS-portfolio/Postal_areas.html)
 
 
 ```markdown
